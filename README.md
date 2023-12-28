@@ -1,5 +1,5 @@
 ## **🎇METAHAUS (메타하우스)**
-- 메타버스 크리에이터에게는 에셋 판매 및 주문제작 서비스를 판매할 수 있는 환경을 제공하고, 메타버스 유저들은 필요한 리소스를 손쉽게 구할 수 있는 환경을 제공하기 위한 플랫폼을 구현한 프로젝트 입니다.
+- 메타버스 크리에이터에게는 에셋 판매 및 주문제작 서비스를 판매할 수 있는 환경을 제공하고, 메타버스 유저들에게는 필요한 리소스를 손쉽게 구할 수 있는 환경을 제공하는 플랫폼 구축을 위한 프로젝트 입니다.
 - 개발 기간 : 23.5.16 ~ 23.7.11<br>
 - 참여 인원 : 6명 (IDEL)<br>
       
@@ -20,16 +20,17 @@
 
 
 ### **[Back-end]**   
-![Java](https://img.shields.io/badge/java8-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 ### **[DB]**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **[Tool & Environment]**  
+![eclipseide](https://img.shields.io/badge/eclipseide-%2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/IntelliJ idea-000000?style=for-the-badge&logo=IntelliJ idea&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 ## 💻 ERD
@@ -37,7 +38,7 @@
 
 
 ## 📍 주요 기능
-### 유저(회원) 권한
+### 일반 유저 권한
 
 <details>
 <summary>상품</summary>
@@ -82,7 +83,7 @@
 </details>
 
 
-### 관리자 권한
+### 크리에이터 권한
 <details>
 <summary>상품</summary>
   
