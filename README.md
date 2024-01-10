@@ -4,9 +4,9 @@
 - 개발 기간 : 23.5.16 ~ 23.7.11<br>
 - 참여 인원 : 6명 (IDEL)<br>
       
-    |<img src="https://avatars.githubusercontent.com/u/132865000?v=4" width="120" height="160"/><br/>BE 이창훈 (팀장) <br/><a href="https://github.com/SoohoCoding">GitHub</a>|<img src="https://avatars.githubusercontent.com/u/121486038?v=4" width="120" height="160"/><br/>BE 박도진 <br/><a href="https://github.com/DojinP">GitHub</a>|<img src="https://avatars.githubusercontent.com/u/127920331?v=4" width="140" height="160"/><br/>BE 오승민 <br/><a href="https://github.com/sminxxi">GitHub</a>|<img src="#" width="120" height="160"/><br/>BE 오승언 <br/><a href="#">GitHub</a>|<img src="https://avatars.githubusercontent.com/u/87427933?v=4" width="120" height="160"/><br/>BE 유세희 <br/><a href="https://github.com/YooSehui">GitHub</a>|<img src="https://avatars.githubusercontent.com/u/66115670?v=4" width="120" height="160"/><br/>BE 정민우 <br/><a href="https://github.com/minwoorich">GitHub</a>|
+    |<img src="https://avatars.githubusercontent.com/u/132865000?v=4" width="120" height="160"/><br/>BE 이창훈 (팀장) <br/><a href="https://github.com/SoohoCoding">GitHub</a>|<img src="https://avatars.githubusercontent.com/u/121486038?v=4" width="120" height="160"/><br/>BE 박도진 <br/><a href="https://github.com/DojinP">GitHub</a>|<img src="https://avatars.githubusercontent.com/u/127920331?v=4" width="140" height="160"/><br/>BE 오승민 <br/><a href="https://github.com/sminxxi">GitHub</a>|<img src="https://avatars.githubusercontent.com/u/126163816?v=4" width="120" height="160"/><br/>BE 오승언 <br/><a href="https://github.com/5seung">GitHub</a>|<img src="https://avatars.githubusercontent.com/u/87427933?v=4" width="120" height="160"/><br/>BE 유세희 <br/><a href="https://github.com/YooSehui">GitHub</a>|<img src="https://avatars.githubusercontent.com/u/66115670?v=4" width="120" height="160"/><br/>BE 정민우 <br/><a href="https://github.com/minwoorich">GitHub</a>|
     |:---:|:---:|:---:|:---:|:---:|:---:|
-    | <strong>주요 역할</strong> <br> &middot; 전체 프로젝트 관리 <br> &middot; 회원 및 결제 파트 <br> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br> &middot; 리뷰 파트 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br> &middot; 리뷰 파트 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br> &middot; 리뷰 파트 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br> &middot; 리뷰 파트 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br> &middot; 리뷰 파트 <br/> &middot; 프론트 디자인 |
+    | <strong>주요 역할</strong> <br> &middot; 프로젝트 총괄 <br/> &middot; 메인페이지 <br/> &middot; 검색기능 <br/> &middot; 회원관리 파트 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br/> &middot; 채팅 파트 <br> &middot; 포인트 파트 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br> &middot; 에셋 파트 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br/> &middot; 상품 파트 <br/> &middot; 주문 및 결제 파트 <br/> &middot; 리뷰 답글 및 신고하기 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br/> &middot; 회원 파트 <br/> &middot; 크리에이터<br/> 등록 및 관리 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br/> &middot; 구매 및 판매 관리 파트 <br/> &middot; 리뷰작성 <br/> &middot; 네이버 클라우드 배포 <br/> &middot; 프론트 디자인 |
 
 <br/>
 
@@ -25,22 +25,24 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-%262577.svg?style=for-the-badge&logo=CentOS&logoColor=white)
 
 ### **[DB]**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **[Tool & Environment]**  
-![eclipseide](https://img.shields.io/badge/eclipseide-%2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+![eclipse-ide](https://img.shields.io/badge/eclipse_ide-%2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 <br/>
 
 ## 💻 ERD
 - [📌ERD 링크](https://www.erdcloud.com/d/TZKA5tfdA8fFwNvzg)
-- Table 7
+- Table 34
 
-![image](#)
+![erd-image](https://github.com/DojinP/metahouse/assets/126163816/f436f129-bdb7-4e86-bc4a-c0ad013153a3)
 
 <br/>
 
@@ -92,7 +94,17 @@
 
 ### 크리에이터 권한
 <details>
-<summary>상품</summary>
+<summary>마이페이지</summary>
+  
+- 포트폴리오 등록
+  + 상품 이미지는 1장 이상 필수 입력
+  
+- 포트폴리오 삭제
+  
+</details>
+
+<details>
+<summary>판매 등록 및 관리</summary>
   
 - 상품 등록  
   + 상품 이미지는 1장 이상 필수 입력
