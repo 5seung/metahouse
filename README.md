@@ -46,14 +46,6 @@
 
 <br/>
 
-## 👀 참고 자료
-- [기능 명세서](https://docs.google.com/document/d/1nu_eFDzUnc2XcU-5OJfMYyG-rEq_LrIRiomlWGamqdo/edit?usp=sharing)
-- [스토리보드](https://docs.google.com/presentation/d/1dwj1dpzFaZNMGj9lbNZxCUNxmuD_2f8_Y-BcQeYYgbE/edit#slide=id.g24a99c0792e_0_1)
-- [뷰 API](https://docs.google.com/spreadsheets/d/1iAeEf5JYlzGnvdGTtezkAqgrXWgD5GBKXuLcRT1IpC8/edit#gid=0)
-- [작업일지](https://drive.google.com/drive/folders/1o_kdCLDX6H39SK4A0I3cCzLSImFwGxbD)
-
-<br/>
-
 ## 📍 주요 기능
 ### 일반 유저 권한
 
@@ -126,7 +118,13 @@
 
 [📺영상 보러가기(구매자 시나리오)📺](https://drive.google.com/file/d/1mYtj-J6r-cHy0yRwAVO_VAdO6V76z3RB/view?usp=sharing)
 
+<br/>
 
+## 👀 참고 자료
+- [기능 명세서](https://docs.google.com/document/d/1nu_eFDzUnc2XcU-5OJfMYyG-rEq_LrIRiomlWGamqdo/edit?usp=sharing)
+- [스토리보드](https://docs.google.com/presentation/d/1dwj1dpzFaZNMGj9lbNZxCUNxmuD_2f8_Y-BcQeYYgbE/edit#slide=id.g24a99c0792e_0_1)
+- [뷰 API](https://docs.google.com/spreadsheets/d/1iAeEf5JYlzGnvdGTtezkAqgrXWgD5GBKXuLcRT1IpC8/edit#gid=0)
+- [작업일지](https://drive.google.com/drive/folders/1o_kdCLDX6H39SK4A0I3cCzLSImFwGxbD)
 
 <br/>
 
